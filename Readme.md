@@ -1,9 +1,4 @@
-﻿<head>
-<style type="text/css">
-<!--
-.tab { margin-left: 40px; }
--->
-</style>
+<head>
 </head>
 <body>
 <h1>Community Compact</h1>
