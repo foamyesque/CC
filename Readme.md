@@ -3,13 +3,13 @@
 <body>
 <h1>Community Compact</h1>
 <h2>Table of Contents</h2>
-<a href="#Title1"><h3>Title I: Preamble and Structure</h3></a>
+<h3><a href="#Title1">Title I: Preamble and Structure</a></h3>
 <br>1. Statement of Purpose
 <br>2. Ownership
 <br>3. Management Decision-Making
 <br>4. Administrative Tribunal
 <br>5. Community Councillors
-<a href="#Title2"><h3>Title II: User Obligations and Rules</h3></a>
+<h3><a href="#Title2">Title II: User Obligations and Rules</a></h3>
 <br>1. Preamble and Interpretation
 <br>2. Violating Laws
 <br>3. Hate Speech
@@ -25,7 +25,7 @@
 <br>13. Abuse of Site Resources
 <br>14. Disruption of Staff
 
-<a href="#Title3"><h3>Title III: Appeals and Procedure</h3></a>
+<h3><a href="#Title3">Title III: Appeals and Procedure</a></h3>
 <br>1. Interpretation
 <br>2. Appealable Decisions
 <br>3. Standard of Review for Appeal
@@ -37,7 +37,7 @@
 <br>7. Restrictions on Material Before Tribunal
 <br>7. Powers of Tribunal
 
-<a href="#Title4"><h3>Title IV: Staff Governance</h3></a>
+<h3><a href="#Title4">Title IV: Staff Governance</a></h3>
 <br>1. Staff Roles
 <br>2. Directors
 <br>3. Supervisor Moderators
@@ -47,7 +47,7 @@
 <br>7. Staff Removal
 <br>8. Staff Resignation
 <hr>
-<a id="Title1"><h2>Title I: Preamble and Structure</h2></a>
+<h2><a name="Title1">Title I: Preamble and Structure</a></h2>
 <h4>1. Statement of Purpose</h4>
 This site is meant to be open, inclusive, and enjoyable by all users. These rules are intended to accomplish that aim. They should be interpreted in the broadest possible light to accomplish that goal, and any ambiguity should be resolved with that in mind.
 <h4>2. Ownership</h4>
@@ -73,7 +73,7 @@ Community Councillors are the elected members of the Administrative Tribunal who
 <p>(J). A Councillor may not serve more than two sequential terms.</p>
 <p>(K). During the course of their duties, Community Councillors are bound by the same obligations as the Staff.</p>
 
-<a id="Title2"><h2>Title II: User Obligations and Rules</h2></a>
+<h2><a name="Title2">Title II: User Obligations and Rules</a></h2>
 <h4>1. Preamble and Interpretation</h4>
 This site is meant to be open, inclusive, and enjoyable by all users. These rules are intended to accomplish that aim. They should be interpreted in the broadest possible light to accomplish that goal, and any ambiguity should be resolved with that in mind.
 
@@ -157,7 +157,7 @@ You will not do anything to disrupt the staff in moderating and/or administering
 <p>B. Challenging a moderator decision in the thread in which it was made;</p>
 <p>C. Attempting to avoid a ban or other disciplinary action.</p>
 
-<a id="Title3"><h2>Title III: Appeals and Procedure</h2></a>
+<h2><a name="Title3">Title III: Appeals and Procedure</a></h2>
 <h4>1. Interpretation</h4>
 <h4>2. Appealable Decisions</h4>
 A user may appeal any moderator action which results in that user being awarded infraction points and/or bans, or another using being permanently banned, unless:
@@ -202,7 +202,7 @@ The Tribunal hearing the Appeal shall have the power to:
 <p>A. Determine whether a rule was violated</p>
 <p>B. Uphold or overturn the sanction imposed by the Staff member.</p>
 
-<a id="Title4"><h2>Title IV: Staff Governance</h2></a>
+<h2><a name="Title4">Title IV: Staff Governance</a></h2>
 <h4>1. Staff Roles</h4>
 <h4>2. Directors</h4>
 Directors shall generally oversee the maintenance, operation, and policy of the forum.
