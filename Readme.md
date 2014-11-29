@@ -10,20 +10,24 @@
 <br>4. Administrative Tribunal
 <br>5. Community Councillors
 <h3><a href="#Title2">Title II: User Obligations and Rules</a></h3>
+<h4>Chapter 1: General Matters</h4>
 <br>1. Preamble and Interpretation
-<br>2. Violating Laws
-<br>3. Hate Speech
-<br>4. Unacceptable Multimedia
-<br>5. Unacceptable Written Material
-<br>6. Unacceptable Commentary
-<br>7. Signatures and Avatars
-<br>8. Potential Controversial Material to be Spoilered
-<br>9. Linking Equally Unacceptable.
-<br>10. Defenses
-<br>11. Spamming
-<br>12. Trolling and Harrassment
-<br>13. Abuse of Site Resources
-<br>14. Disruption of Staff
+<br>2. Aiding, Abetting, Counselling
+<br>3. Linking
+<h4>Chapter 2: Legal and Technical  Matters </h4>
+<br>4. Violating Laws
+<br>5. Abuse of Site Resources
+<br>6. Disruption of Staff
+<h4>Chapter 3: General Rules</h4>
+<br>7. Hate Speech
+<br>8. Unacceptable Multimedia
+<br>9. Unacceptable Written Material
+<br>10. Unacceptable Commentary
+<br>11. Signatures and Avatars
+<br>12. Potential Controversial Material to be Spoilered
+<br>13. Defenses
+<br>14. Spamming
+<br>15. Trolling and Harrassment
 
 <h3><a href="#Title3">Title III: Appeals and Procedure</a></h3>
 <br>1. Interpretation
@@ -74,10 +78,19 @@ Community Councillors are the elected members of the Administrative Tribunal who
 <p>(K). During the course of their duties, Community Councillors are bound by the same obligations as the Staff.</p>
 
 <h2><a name="Title2">Title II: User Obligations and Rules</a></h2>
+<h3>Chapter 1: General Matters</h3>
 <h4>1. Preamble and Interpretation</h4>
 This site is meant to be open, inclusive, and enjoyable by all users. These rules are intended to accomplish that aim. They should be interpreted in the broadest possible light to accomplish that goal, and any ambiguity should be resolved with that in mind.
 
-<h4>2. Violating Laws</h4>
+<h4>2. Aiding, Abetting, Counselling</h4>
+Anyone violates these rules if he or she actually violates the rule, encourages, advises, or counsels anyone else to do so; or does or omits to do anything that aids a person in violating the rule. This remains the case whether or not the person who has actually violated the rule is punished for doing so.
+
+<h4>3. Linking </h4>
+You agree that you will not post a hyperlink to any webpage or other content that would, if posted on this site, violate its rules.
+<p>A. This applies to all elements of a webpage, including any advertising appearing on it.</p>
+
+<h3>Chapter 2: Legal and Technical Matters</h3>
+<h4>4. Violating Laws</h4>
 You agree not to post anything that is against the law of the United States, Australia, or Canada, and that if you do so, we may delete it, infract you, or ban you- or any combination of these things- without any appeal or warning. Things that may fall under this section <str>include, but are not limited to</str>:
 <p>A. Child pornography, including simulated and written child pornography </p>
 <p>B. Threats against another user or specific person. </p>
@@ -87,75 +100,73 @@ You agree not to post anything that is against the law of the United States, Aus
 <p>F. Copyright infringement, including links to things that are infringements of copyright, such as scans of manga, game torrents, and so on.
 <p>G. Obscene material
 
-<h4>3. Hate Speech</h4>
-You agree not to post anything that constitutes hate speech, including, but not limited to:
-<p>A. The promotion or advocacy of extermination, torture, maiming, or other violent acts directed against a group of people, by race, gender, religion, sexual orientation, nationality, or otherwise; </p>
-<p>B. The promotion or advocacy of harassment or violence against any specific individual person for any reason; </p>
-<p>C. The hateful or pejorative use of slurs or other language, whether based on race, ethnicity, gender, sexual orientation, or otherwise; </p>
-
-<h4>4. Unacceptable Multimedia</h4>
-You agree not to post any image, video, or other multimedia that is intended to appeal to the prurient interest, included, but not limited to:
-<p>A. Depicting or appearing to depict children unclothed or in a sexual fashion;</p>
-<p>B. Depicting adults engaged in sexual acts or otherwise fully naked;</p>
-<p>C. Depicting anyone, or any animal, in a state of extreme injury or physical trauma which might make it generally unacceptable for broad display to the members of the public;</p>
-
-<h4>5. Unacceptable Written Material</h4>
-You agree not to post any written material that is intended to appeal to the prurient interest, including, but not limited to:
-<p>A. Describes, or appears to describe, children in a sexual fashion;</p>
-<p>B. Explicitly describes adults engaged in sexual acts;</p>
-<p>C. Explicitly describes extreme violence or physical trauma;</p>
-
-<h4>6. Unacceptable Commentary</h4>
-You agree that you will not make comments which:
-<p>A. Expresses sexual intention or desire or imputes a sexual act or any sexual connotation toward minors; </p>
-<p>B. Expresses advocacy, promotion, or other comment that suggests a fictional character should, or deserves to be, the victim of any violent, degrading, or sexual act.
-
-<h4>7. Signatures and Avatars</h4>
-You agree that your avatar and your signature will be free of any image or text that is, or might be, intended to titilate or contains in prominent part anything that is sexual or gorey in nature or that might otherwise be construed as offensive.
-
-<h4>8. Potential Controversial Material to be Spoilered</h4>
-You agree that you will place below a labelled spoiler any text or media which:
-<p>A. Contains prominent sexual imagery;</p>
-<p>B. Contains visible violence, injury, or trauma, even if fictional;</p>
-<p>C. Might shock the conscience</p>
-
-<h4>9. Linking Equally Unacceptable.</h4>
-You agree that you will not post a hyperlink to any webpage or other content that would, if posted on this site, violate its rules.
-<p>A. This applies to all elements of a webpage, including any advertising appearing on it.</p>
-
-<h4>10. Defenses</h4>
-Sections 3-5 above shall not, for greater clarity, prohibit the discussion, quoting, and/or criticism of news or historical events, educational or academic material, or literary or artistic works so long as such discussion is tasteful, appropriate, and contains as little description as is reasonably necessary and is not intended to titilate.
-
-Sections 3-5 shall furthermore not prohibit the posting of content if such content is:
-<p>A. Posted in a location, if any, which has been explicitly approved by the Staff for material of its kind;</p>
-<p>B. Explicitly approved in writing by the Staff as having sufficient literary, artistic, political, or scientific value so as to warrant an exception to this rule.</p>
-
-<h4>11. Spamming</h4>
-You will not do anything that might be considered spamming, including, but not limited to:
-<p>A. Making a significant number of threads in quick succession;</p>
-<p>B. Making multiple, unnecessary, sequential posts;</p>
-<p>C. Overuse of single-image posts or memes;</p>
-<p>D. Piling on another user with additional vitriol, complaints, praise, etc.</p>
-<h4>12. Trolling and Harrassment</h4>
-You will not do anything considered trolling or harassment, including, but not limited to:
-<p>A. Posting spoilers where they are inappropriate;</p>
-<p>B. Joining or posting in a thread with the intent or effect of disrupting it or harassing the users in it, or doing anything that would tend to do so;</p>
-<p>C. Sending personal messages that harass, bother, offend, or otherwise upset the recipients or violate the rules;</p>
-<p>D. Posting personal attacks or <em>ad hominem</em> arguments which go beyond the level of what might reasonably be expressed in frustration in the course of a debate;</p>
-<p>E. Debating in bad faith</p>
-
-<h4>13. Abuse of Site Resources </h4>
+<h4>5. Abuse of Site Resources </h4>
 You will not misuse site resources, including, but not limited to:
 <p>A. Using the resources of the site to harass any person or organization, such as by counselling or advocating disruptive action on another site or launching campaigns against them;</p>
 <p>B. Abusing the ignore function, or threatening to do so or encouraging others to do so;</p>
 <p>C. Abusing the report function, or threatening to do so or encouraging others to do so;</p>
 <p>D. Using the site for financial gain or advertising without staff permission.<p>
 
-<h4>14. Disruption of Staff Activity </h4>
+<h4>6. Disruption of Staff Activity </h4>
 You will not do anything to disrupt the staff in moderating and/or administering the site, including but not limited to:
 <p>A. Taunting a moderator to punish you;</p>
 <p>B. Challenging a moderator decision in the thread in which it was made;</p>
 <p>C. Attempting to avoid a ban or other disciplinary action.</p>
+
+<h3>Chapter 3: General Rules</h3>
+<h4>7. Hate Speech</h4>
+You agree not to post anything that constitutes hate speech, including, but not limited to:
+<p>A. The promotion or advocacy of extermination, torture, maiming, or other violent acts directed against a group of people, by race, gender, religion, sexual orientation, nationality, or otherwise; </p>
+<p>B. The promotion or advocacy of harassment or violence against any specific individual person for any reason; </p>
+<p>C. The hateful or pejorative use of slurs or other language, whether based on race, ethnicity, gender, sexual orientation, or otherwise; </p>
+
+<h4>8. Unacceptable Multimedia</h4>
+You agree not to post any image, video, or other multimedia that is intended to appeal to the prurient interest, included, but not limited to:
+<p>A. Depicting or appearing to depict children unclothed or in a sexual fashion;</p>
+<p>B. Depicting adults engaged in sexual acts or otherwise fully naked;</p>
+<p>C. Depicting anyone, or any animal, in a state of extreme injury or physical trauma which might make it generally unacceptable for broad display to the members of the public;</p>
+
+<h4>9. Unacceptable Written Material</h4>
+You agree not to post any written material that is intended to appeal to the prurient interest, including, but not limited to:
+<p>A. Describes, or appears to describe, children in a sexual fashion;</p>
+<p>B. Explicitly describes adults engaged in sexual acts;</p>
+<p>C. Explicitly describes extreme violence or physical trauma;</p>
+
+<h4>10. Unacceptable Commentary</h4>
+You agree that you will not make comments which:
+<p>A. Expresses sexual intention or desire or imputes a sexual act or any sexual connotation toward minors; </p>
+<p>B. Expresses advocacy, promotion, or other comment that suggests a fictional character should, or deserves to be, the victim of any violent, degrading, or sexual act.
+
+<h4>11. Signatures and Avatars</h4>
+You agree that your avatar and your signature will be free of any image or text that is, or might be, intended to titilate or contains in prominent part anything that is sexual or gorey in nature or that might otherwise be construed as offensive.
+
+<h4>12. Potential Controversial Material to be Spoilered</h4>
+You agree that you will place below a labelled spoiler any text or media which:
+<p>A. Contains prominent sexual imagery;</p>
+<p>B. Contains visible violence, injury, or trauma, even if fictional;</p>
+<p>C. Might shock the conscience</p>
+
+<h4>13. Defenses</h4>
+Nothing in this chapter shall, for greater clarity, prohibit the discussion, quoting, and/or criticism of news or historical events, educational or academic material, or literary or artistic works so long as such discussion is tasteful, appropriate, and contains as little description as is reasonably necessary and is not intended to titilate.
+
+Nothing in this chapter shall prohibit the posting of content if such content is:
+<p>A. Posted in a location, if any, which has been explicitly approved by the Staff for material of its kind;</p>
+<p>B. Explicitly approved in writing by the Staff as having sufficient literary, artistic, political, or scientific value so as to warrant an exception to this rule.</p>
+
+<h4>14. Spamming</h4>
+You will not do anything that might be considered spamming, including, but not limited to:
+<p>A. Making a significant number of threads in quick succession;</p>
+<p>B. Making multiple, unnecessary, sequential posts;</p>
+<p>C. Overuse of single-image posts or memes;</p>
+<p>D. Piling on another user with additional vitriol, complaints, praise, etc.</p>
+
+<h4>15. Trolling and Harrassment</h4>
+You will not do anything considered trolling or harassment, including, but not limited to:
+<p>A. Posting spoilers where they are inappropriate;</p>
+<p>B. Joining or posting in a thread with the intent or effect of disrupting it or harassing the users in it, or doing anything that would tend to do so;</p>
+<p>C. Sending personal messages that harass, bother, offend, or otherwise upset the recipients or violate the rules;</p>
+<p>D. Posting personal attacks or <em>ad hominem</em> arguments which go beyond the level of what might reasonably be expressed in frustration in the course of a debate;</p>
+<p>E. Debating in bad faith</p>
 
 <h2><a name="Title3">Title III: Appeals and Procedure</a></h2>
 <h4>1. Interpretation</h4>
