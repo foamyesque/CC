@@ -20,45 +20,55 @@
 <br>1. Preamble and Interpretation
 <br>2. Aiding, Abetting, Counselling
 <br>3. Linking
+<br>4. Definition of Person
+<br>5. Thread Housekeeping
+<br>6. Deletion of Threads and Posts
+<br>7. Obstruction of Staff Activity
+<br>8. Pre-Posting Review of Questionable Content
 <br>
 <br><strong>Chapter 2: Legal and Technical  Matters</strong>
-<br>4. Violating Laws
-<br>5. Abuse of Site Resources
-<br>6. Disruption of Staff
+<br>9. Violating Laws
+<br>10. Abuse of Site Resources
 <br>
 <br><strong>Chapter 3: Posting On SV</strong>
-<br>7. Hate Speech
-<br>8. Unacceptable Multimedia
-<br>9. Unacceptable Written Material
-<br>10. Unacceptable Commentary
-<br>11. Signatures and Avatars
-<br>12. Potential Controversial Material to be Spoilered
-<br>13. Defenses
-<br>14. Spamming
-<br>15. Trolling and Harrassment
+<br>11. Hate Speech
+<br>12. Unacceptable Multimedia
+<br>13. Unacceptable Written Material
+<br>14. Unacceptable Commentary
+<br>15. Signatures and Avatars
+<br>16. Potential Controversial Material to be Spoilered
+<br>17. Defenses
+<br>18. Spamming
+<br>19. Trolling and Harrassment
 
 <h3><a href="#Title3">Title III: Appeals and Procedure</a></h3>
 <br>1. Interpretation
 <br>
+<br><strong>Chapter 1: Objection to Moderator Actions</strong>
+<br>2. Policy Objections
+<br>3. Staff Decisions
+<br>4. Staff Posting
+<br>
 <br><strong>Chapter 1: General Matters</strong>
-<br>2. Appealable Decisions
-<br>3. Appeals Heard Together
-<br>4. Timing of Appeals
-<br>5. Standard of Review
-<br>6. Correction of Plain Error
+<br>5. Appealable Decisions
+<br>6. Appeals Heard Together
+<br>7. Timing of Appeals
+<br>8. Standard of Review
+<br>9. Correction of Plain Error
+<br>10. Appeals Where Thread or Post Deleted
 <br>
 <br><strong>Chapter 2: Intermediate Appeals</strong>
-<br>7. Appeal to Supervisor Moderator
-<br>8. Procedure for Laying Appeal to Supervisor Moderator
-<br>9. Appeal to Director
-<br>10. Procedure for Laying Appeal to Director
-<br>11. Powers of Supervisor Moderator or Director on Appeal<br>
+<br>11. Appeal to Supervisor Moderator
+<br>12. Procedure for Laying Appeal to Supervisor Moderator
+<br>13. Appeal to Director
+<br>14. Procedure for Laying Appeal to Director
+<br>15. Powers of Supervisor Moderator or Director on Appeal<br>
 <br>
 <br><strong>Chapter 3: Administrative Tribunal</strong>
-<br>12. Appeal to Tribunal
-<br>13. Procedure for Laying Appeal to Tribunal
-<br>14. Restriction on Material Before Tribunal
-<br>15. Powers of Tribunal Hearing Appeal
+<br>16. Appeal to Tribunal
+<br>17. Procedure for Laying Appeal to Tribunal
+<br>18. Restriction on Material Before Tribunal
+<br>19. Powers of Tribunal Hearing Appeal
 
 <h3><a href="#Title4">Title IV: Staff Governance</a></h3>
 <br>1. Staff Roles
@@ -105,14 +115,29 @@ This site is meant to be open, inclusive, and enjoyable by all users. These rule
 Anyone violates these rules if he or she actually violates the rule, encourages, advises, or counsels anyone else to do so; or does or omits to do anything that aids a person in violating the rule. This remains the case whether or not the person who has actually violated the rule is punished for doing so.
 
 <h4>3. Linking </h4>
-You agree that you will not post a hyperlink to any webpage or other content that would, if posted on this site, violate its rules.
+You agree that you will not post a link or any other direction to any webpage or other content that would, if posted on this site, violate its rules.
 <p class="ind1">(1). This applies to all elements of a webpage, including any advertising appearing on it.</p>
 
-<h4>4. Interpretation</h4>
+<h4>4. Definition of Person</h4>
 In any place where these Rules refer to any person, that rule applies equally to real, fictional, and legal persons.
+<h4>5. Thread Housekeeping</h4>
+At the discretion of Staff, threads may be moved to different subforums, merged, separated, or locked if doing so is deemed necessary for the maintenance of order.
 
+<h4>6. Deletion of Threads and Posts</h4>
+At the discretion of Staff, threads and/or posts may be deleted where they, or content within them, violates these Rules.
+
+<h4>7. Obstruction of Staff Activity </h4>
+You will not do anything to Obstruct the staff in moderating and/or administering the site, including but not limited to:
+<p class="ind1">(1). Taunting a moderator to punish you;</p>
+<p class="ind1">(2). Challenging a moderator decision in the thread in which it was made;</p>
+<p class="ind1">(3). Attempting to avoid a ban or other disciplinary action;</p>
+<p class="ind1">(4). Attempting to interfere with a housekeping decision, such as recreating a locked thread without permission.</p>
+
+<h4>8. Pre-Posting Review Of Questionable Content</h4>
+Where this Title provides a process for the pre-posting review and approval of material by the Staff, such approval shall only be obtained by posting the material, and an explanation of the context in which it appears and the thread in which it is to be posted, in the Appeals forum.
+<p class="ind1">(1). Such pre-approval does not meman that the content cannot be deleted at a later time, but it does mean that there will be no infractions issued for having posted it.</p>
 <h3>Chapter 2: Legal and Technical Matters</h3>
-<h4>5. Violating Laws</h4>
+<h4>9. Violating Laws</h4>
 You agree not to post anything that is against the law of the United States, Australia, or Canada, and that if you do so, we may delete it, infract you, or ban you- or any combination of these things- without any appeal or warning. Things that may fall under this section <em>include, but are not limited to</em>:
 <p class="ind1">(1). Child pornography, including simulated and written child pornography </p>
 <p class="ind1">(2). Threats against another user or specific person. </p>
@@ -122,66 +147,61 @@ You agree not to post anything that is against the law of the United States, Aus
 <p class="ind1">(6). Copyright infringement, including links to things that are infringements of copyright, such as scans of manga, game torrents, and so on.
 <p class="ind1">(7). Obscene material
 
-<h4>6. Abuse of Site Resources </h4>
+<h4>10. Abuse of Site Resources </h4>
 You will not misuse site resources, including, but not limited to:
 <p class="ind1">(1). Using the resources of the site to harass any person or organization, such as by counselling or advocating disruptive action on another site or launching campaigns against them;</p>
 <p class="ind1">(2). Abusing the ignore function, or threatening to do so or encouraging others to do so;</p>
 <p class="ind1">(3). Abusing the report function, or threatening to do so or encouraging others to do so;</p>
-<p class="ind1">(4). Using the site for financial gain or advertising without staff permission.<p>
-<h4>7. Disruption of Staff Activity </h4>
-You will not do anything to disrupt the staff in moderating and/or administering the site, including but not limited to:
-<p class="ind1">(1). Taunting a moderator to punish you;</p>
-<p class="ind1">(2). Challenging a moderator decision in the thread in which it was made;</p>
-<p class="ind1">(3). Attempting to avoid a ban or other disciplinary action.</p>
+<p class="ind1">(4). Using the site for financial gain or advertising without staff permission.</p>
 
 <h3>Chapter 3: General Rules</h3>
-<h4>8. Hate Speech</h4>
+<h4>11. Hate Speech</h4>
 You agree not to post anything that constitutes hate speech, including, but not limited to:
 <p class="ind1">(1). The promotion or advocacy of extermination, torture, maiming, or other violent acts directed against a group of people, by race, gender, religion, sexual orientation, nationality, or otherwise; </p>
 <p class="ind1">(2). The promotion or advocacy of harassment or violence against any specific individual person for any reason; </p>
 <p class="ind1">(3). The hateful or pejorative use of slurs or other language, whether based on race, ethnicity, gender, sexual orientation, or otherwise; </p>
 
-<h4>9. Unacceptable Multimedia</h4>
+<h4>12. Unacceptable Multimedia</h4>
 You agree not to post any image, video, or other multimedia that is intended to appeal to the prurient interest, included, but not limited to:
 <p class="ind1">(1). Depicting or appearing to depict children unclothed or in a sexual fashion;</p>
 <p class="ind1">(2). Depicting adults engaged in sexual acts or otherwise fully naked;</p>
 <p class="ind1">(3). Depicting anyone, or any animal, in a state of extreme injury or physical trauma which might make it generally unacceptable for broad display to the members of the public;</p>
 
-<h4>10. Unacceptable Written Material</h4>
+<h4>13. Unacceptable Written Material</h4>
 You agree not to post any written material that is intended to appeal to the prurient interest, including, but not limited to:
 <p class="ind1">(1). Describes, or appears to describe, children in a sexual fashion;</p>
 <p class="ind1">(2). Explicitly describes adults engaged in sexual acts;</p>
 <p class="ind1">(3). Explicitly describes extreme violence or physical trauma;</p>
 
-<h4>11. Unacceptable Commentary</h4>
+<h4>14. Unacceptable Commentary</h4>
 You agree that you will not make comments which:
 <p class="ind1">(1). Expresses sexual intention or desire or imputes a sexual act or any sexual connotation toward minors; </p>
 <p class="ind1">(2). Expresses advocacy, promotion, or other comment that suggests that any person, should, or deserves to be, the victim of any violent, degrading, or sexual act.
 
-<h4>12. Signatures and Avatars</h4>
+<h4>15. Signatures and Avatars</h4>
 You agree that your avatar and your signature will be free of any image or text that is, or might be, intended to titilate or contains in prominent part anything that is sexual or gorey in nature or that might otherwise be construed as offensive.
 
-<h4>13. Potential Controversial Material to be Spoilered</h4>
+<h4>16. Potential Controversial Material to be Spoilered</h4>
 You agree that you will place below a labelled spoiler any text or media which:
 <p class="ind1">(1). Contains prominent sexual imagery;</p>
 <p class="ind1">(2). Contains visible violence, injury, or trauma, even if fictional;</p>
 <p class="ind1">(3). Might shock the conscience</p>
 
-<h4>14. Defenses</h4>
+<h4>17. Defenses</h4>
 Nothing in this chapter shall, for greater clarity, prohibit the discussion, quoting, and/or criticism of news or historical events, educational or academic material, or literary or artistic works so long as such discussion is tasteful, appropriate, and contains as little description as is reasonably necessary and is not intended to titilate.
 
 Nothing in this chapter shall prohibit the posting of content if such content is:
 <p class="ind1">(1). Posted in a location, if any, which has been explicitly approved by the Staff for material of its kind;</p>
 <p class="ind1">(2). Explicitly approved in writing by the Staff as having sufficient literary, artistic, political, or scientific value so as to warrant an exception to this rule.</p>
 
-<h4>15. Spamming</h4>
+<h4>18. Spamming</h4>
 You will not do anything that might be considered spamming, including, but not limited to:
 <p class="ind1">(1). Making a significant number of threads in quick succession;</p>
 <p class="ind1">(2). Making multiple, unnecessary, sequential posts;</p>
 <p class="ind1">(3). Overuse of single-image posts or memes;</p>
 <p class="ind1">(4). Piling on another user with additional vitriol, complaints, praise, etc.</p>
 
-<h4>16. Trolling and Harrassment</h4>
+<h4>19. Trolling and Harrassment</h4>
 You will not do anything considered trolling or harassment, including, but not limited to:
 <p class="ind1">(1). Posting spoilers where they are inappropriate;</p>
 <p class="ind1">(2). Joining or posting in a thread with the intent or effect of disrupting it or harassing the users in it, or doing anything that would tend to do so;</p>
@@ -191,54 +211,68 @@ You will not do anything considered trolling or harassment, including, but not l
 
 <h2><a name="Title3">Title III: Appeals and Procedure</a></h2>
 <h4>1. Interpretation</h4>
-This chapter creates a vehicle for the expeditious review of Staff decisions which are unfair, arbitrary and capricious, malicious, or otherwise patently unreasonable.
+In order to secure the expeditious review of Staff decisions which might be unfair, arbitrary and capricious, malicious, or otherwise patently unreasonable, these Rules set out a specific review process for users to follow.
+<h3> Chapter 1: Objection to Moderator Actions </h3>
+<h4>2. Policy Decisions</h4>
+Any objection to the content of the rules, or a policy determination made by the Directors, may be made by way of a thread posted in the News, Suggestion, and Management Discussion forum. There can be no appeal of the content of the rules or of Staff policy.
+<h4>3. Staff Decisions</h4>
+Any objection to the actions of a Staff member in their official capacity (such as the expression of an opinion on policy, moderation action, and so on) for any reason must be taken either by way of appeal or by way of a thread posted in the News, Suggestion, and Management Discussion forum. The Report system is not the appropriate forum to request review of these actions.
+<p class="ind1">(1). If the objection is of a private or personal nature, it shall be made by way of a personal message to all of the Directors.</p>
 
-<h3> Chapter 1: General Matters</h3>
-<h4>2. Appealable Decisions</h4>
+<h4>4. Staff Posting</h4>
+Any objection to the actions of a Staff member in their personal capacity (such as posting in a thread in which they are not moderating or otherwise dealing with board policy) on the basis that they have violated these rules should be taken through the standard report process. These reports are subject to the procedure set out in Title IV.
+
+<h3> Chapter 2: Appeals Generally</h3>
+<h4>5. Appealable Decisions</h4>
 A user may appeal any moderator action which results in that user being awarded infraction points and/or bans, or another using being permanently banned, unless:
 <p class="ind1">(1). In the opinion of the Directors, the action was necessary to protect the life, safety, privacy, or technological integrity of the board or its users; </p>
 <p class="ind1">(2). In the opinion of the Directors, the conduct that led to the ban could give rise to criminal or civil legal action.</p>
 
-<h4>3. Appeals Heard Together</h4>
+<h4>6. Appeals May Be Heard Together</h4>
 At the discretion of the appropriate Director, multiple appeals stemming from similar facts may be consolidated and heard together, and the decision of the Supervisor Moderator, Director, or Tribunal on those appeals will bind all of them.
 <p class="ind1">(1). In any case where the appeals are to be consolidated, a defense shall be provided by a Supervisor Moderator or Director.</p>
 
-<h4>4. Timing of Appeals</h4>
+<h4>7. Timing of Appeals</h4>
 All appeals must be made:
 <p class="ind1">(1). No earlier than twenty-four (24) hours after the infraction which is being appealed from;
 <p class="ind1">(2). No later than ninety-six (96) hours after the infraction which is being appealed from.
 
-<h4>5. Standard of Review</h4>
+<h4>8. Standard of Review</h4>
 Each appeal will be determined on the standard of clear error. The Supervisor Moderator, Director, or Administrative Tribunal hearing the case will defer to the judgement of the Moderator who placed the infraction unless that decision was clearly an unreasonable interpretation of the Rules or the facts upon which the infraction is based.  
 
-<h4>6. Correction of Plain Error</h4>
+<h4>9. Correction of Plain Error</h4>
 The Supervisor Moderator, Director, or Administrative Tribunal hearing the appeal shall be free to correct a plain error made by the Moderator placing the infraction (such as an inappropriate section being cited) if it appears on the face of the record to be necessary to do so.
 
-<h3> Chapter 2: Intermediate Appeals</h3>
-<h4>7. Appeal to Supervisor Moderator</h4>
+<h4>10. Appeals Where Thread Or Post Deleted </h4>
+Where a thread or post has been deleted in the course of issuing an infraction or infractions, any appeal relying upon those deleted materials may only be heard in a closed session. 
+
+<p class="ind1">(1). Insofar as the specific factual basis of the infraction lies upon deleted content posted by the user, it may be provided, by a Director, to that user solely for the purposes of their appeal.</p>
+
+<h3> Chapter 3: Intermediate Appeals</h3>
+<h4>11. Appeal to Supervisor Moderator</h4>
 Any moderator action shall be appealed first to a Supervisor Moderator.
 
-<h4>8. Procedure for Laying Appeal to Supervisor Moderator</h4>
+<h4>12. Procedure for Laying Appeal to Supervisor Moderator</h4>
 An appeal must be made with a short statement, clearly setting out what clear error is alleged in the laying of the infraction.
 
-<h4>9. Appeal to Director</h4>
+<h4>13. Appeal to Director</h4>
 The decision of a Supervisor Moderator shall be appealed to a Director.
 
-<h4>10. Procedure for Laying Appeal to Director</h4>
+<h4>14. Procedure for Laying Appeal to Director</h4>
 An appeal must be made with a short statement, clearly setting out what clear error is alleged in the laying of the infraction <em>and</em> what error was committed by the Supervisor Moderator hearing the appeal.
 
-<h4>11. Powers of Supervisor Moderator or Director on Appeal</h4>
+<h4>15. Powers of Supervisor Moderator or Director on Appeal</h4>
 A supervisor moderator or director hearing an appeal shall have the power to:
 <p class="ind1">(1). Uphold it in its entirety;
 <p class="ind1">(2). Overturn it in its entirety;
 <p class="ind1">(3). Vary the infraction.
 
-<h3> Administrative Tribunal</h3>
+<h3>Chapter 4: Administrative Tribunal</h3>
 
-<h4>12. Appeal to Tribunal</h4>
+<h4>16. Appeal to Tribunal</h4>
 The decision of a Director may be appealed to the Administrative Tribunal. It shall be placed before the Tribunal by the Director whose decision is being appealed, along with the statement of the user appealing, or a statement of the defending Director or Supervisor Moderator.
 
-<h4>13. Procedure for Laying Appeal to Tribunal</h4>
+<h4>17. Procedure for Laying Appeal to Tribunal</h4>
 A request to lay an appeal before the Tribunal by a user shall include the following:
 <p class="ind1">(1). A short summary (no longer than 1,000 words) of the user's appeal;</p>
 <p class="ind1">(2). A specific statement of what is objectionable;</p>
@@ -251,10 +285,10 @@ The case laid before the Tribunal by the Director shall include the following:
 <p class="ind1">(4). A copy of any relevant moderator comments on the report (if any);</p>
 <p class="ind1">(5). A copy of the rule which was the basis of the moderator action.</p>
 
-<h4>14. Restrictions on Material Before Tribunal</h4>
+<h4>18. Restrictions on Material Before Tribunal</h4>
 The Director bringing the case shall, in all cases, refrain from disclosing normally private information unless it is necessary to present the case. If it is necessary to present the case, an IP address or email address shall be redacted and/or distributed by PM to the members of the Tribunal. The staff member bringing the case shall, in all cases of specific content which is in dispute as objectionable place it within a spoiler tag, clearly marked, unless it is disputably illegal, in which case it shall be redacted and a short summary shall be presented in its place.
 
-<h4>15. Powers of Tribunal Hearing Appeal</h4>
+<h4>19. Powers of Tribunal Hearing Appeal</h4>
 The Tribunal hearing the Appeal shall have the power to:
 <p class="ind1">(1). Uphold it in its entirety.</p>
 <p class="ind1">(2). Overturn it in its entirety.</p>
