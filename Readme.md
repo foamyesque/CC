@@ -40,6 +40,7 @@
 <br>17. Defenses
 <br>18. Spamming
 <br>19. Trolling and Harrassment
+<br>20. Confidence of Private Information
 
 <h3><a href="#Title3">Title III: Appeals and Procedure</a></h3>
 <br>1. Interpretation
@@ -71,14 +72,18 @@
 <br>19. Powers of Tribunal Hearing Appeal
 
 <h3><a href="#Title4">Title IV: Staff Governance</a></h3>
-<br>1. Staff Roles
-<br>2. Directors
-<br>3. Supervisor Moderators
-<br>4. Moderators
-<br>5. Appointment
-<br>6. Probationary Period
-<br>7. Staff Removal
-<br>8. Staff Resignation
+<strong>Chapter 1: Staff Roles</strong>
+<br>1. Directors
+<br>2. Supervisor Moderators
+<br>3. Moderators
+<br><strong>Chapter 2: Staff Code of Conduct</strong>
+<br>4. Staff Confidences
+<br>5. Misuse of Moderator Powers
+<br><strong>Chapter 3: Staff Tenure</strong>
+<br>6. Appointment
+<br>7. Probationary Period
+<br>8. Staff Removal
+<br>9. Staff Resignation
 <hr>
 <h2><a name="Title1">Title I: Preamble and Structure</a></h2>
 <h4>1. Statement of Purpose</h4>
@@ -135,7 +140,7 @@ You will not do anything to Obstruct the staff in moderating and/or administerin
 
 <h4>8. Pre-Posting Review Of Questionable Content</h4>
 Where this Title provides a process for the pre-posting review and approval of material by the Staff, such approval shall only be obtained by posting the material, and an explanation of the context in which it appears and the thread in which it is to be posted, in the Appeals forum.
-<p class="ind1">(1). Such pre-approval does not meman that the content cannot be deleted at a later time, but it does mean that there will be no infractions issued for having posted it.</p>
+<p class="ind1">(1). Such pre-approval does not mean that the content cannot be deleted at a later time, but it does mean that there will be no infractions issued for having posted it.</p>
 <h3>Chapter 2: Legal and Technical Matters</h3>
 <h4>9. Violating Laws</h4>
 You agree not to post anything that is against the law of the United States, Australia, or Canada, and that if you do so, we may delete it, infract you, or ban you- or any combination of these things- without any appeal or warning. Things that may fall under this section <em>include, but are not limited to</em>:
@@ -209,6 +214,14 @@ You will not do anything considered trolling or harassment, including, but not l
 <p class="ind1">(4). Posting personal attacks or <em>ad hominem</em> arguments which go beyond the level of what might reasonably be expressed in frustration in the course of a debate;</p>
 <p class="ind1">(5). Debating in bad faith</p>
 
+<h4>20. Confidence of Private Information</h4>
+You will not publicly post private or personal information without the approval of any and all users who might be concerned, including, but not limited to:
+<p class="ind1">(1). The content of personal messages; 
+<p class="ind1">(2). Personally identifiable information (name, address, etc);
+<p class="ind1">(3). Photos;
+<p class="ind1">(4). Information posted in private subforums, such as the Appeal forum or the Council private forum.
+
+
 <h2><a name="Title3">Title III: Appeals and Procedure</a></h2>
 <h4>1. Interpretation</h4>
 In order to secure the expeditious review of Staff decisions which might be unfair, arbitrary and capricious, malicious, or otherwise patently unreasonable, these Rules set out a specific review process for users to follow.
@@ -233,9 +246,10 @@ At the discretion of the appropriate Director, multiple appeals stemming from si
 <p class="ind1">(1). In any case where the appeals are to be consolidated, a defense shall be provided by a Supervisor Moderator or Director.</p>
 
 <h4>7. Timing of Appeals</h4>
-All appeals must be made:
-<p class="ind1">(1). No earlier than twenty-four (24) hours after the infraction which is being appealed from;
-<p class="ind1">(2). No later than ninety-six (96) hours after the infraction which is being appealed from.
+<p class="ind1">(1). All appeals must be made:</p>
+<p class="ind2">(a). No earlier than twenty-four (24) hours after the infraction which is being appealed from;
+<p class="ind2">(b). No later than ninety-six (96) hours after the infraction which is being appealed from.
+<p class="ind1">(2). In exceptional circumstances, a Director may allow an appeal to be made up to seven days after the time limit has elapsed.</p>
 
 <h4>8. Standard of Review</h4>
 Each appeal will be determined on the standard of clear error. The Supervisor Moderator, Director, or Administrative Tribunal hearing the case will defer to the judgement of the Moderator who placed the infraction unless that decision was clearly an unreasonable interpretation of the Rules or the facts upon which the infraction is based.  
@@ -244,9 +258,9 @@ Each appeal will be determined on the standard of clear error. The Supervisor Mo
 The Supervisor Moderator, Director, or Administrative Tribunal hearing the appeal shall be free to correct a plain error made by the Moderator placing the infraction (such as an inappropriate section being cited) if it appears on the face of the record to be necessary to do so.
 
 <h4>10. Appeals Where Thread Or Post Deleted </h4>
-Where a thread or post has been deleted in the course of issuing an infraction or infractions, any appeal relying upon those deleted materials may only be heard in a closed session. 
+The fact that a thread or post has been deleted as a result of, or instead of, issuing an infraction does not mean it cannot be appealed, but such appeals will be heard by the Council in a closed session, with the ultimate result and a short summary of the issues made public.
 
-<p class="ind1">(1). Insofar as the specific factual basis of the infraction lies upon deleted content posted by the user, it may be provided, by a Director, to that user solely for the purposes of their appeal.</p>
+<p class="ind1">(1). If a user requires specific deleted material in order to prepare their appeal, it may be provided by a Director for that purpose.</p>
 
 <h3> Chapter 3: Intermediate Appeals</h3>
 <h4>11. Appeal to Supervisor Moderator</h4>
@@ -294,22 +308,32 @@ The Tribunal hearing the Appeal shall have the power to:
 <p class="ind1">(2). Overturn it in its entirety.</p>
 
 <h2><a name="Title4">Title IV: Staff Governance</a></h2>
-<h4>1. Staff Roles</h4>
-<h4>2. Directors</h4>
+<h3>Chapter 1: Staff Roles</h3>
+<h4>1. Directors</h4>
 Directors shall generally oversee the maintenance, operation, and policy of the forum.
-<h4>3. Supervisor Moderators</h4>
+<h4>2. Supervisor Moderators</h4>
 Supervisor Moderators shall generally provide policy guidance and shall hear immediate appeals from the decisions of the Moderators. They shall also conduct such minor housekeeping as may from time to time be necessary.
-<h4>4. Moderators</h4>
+<h4>3. Moderators</h4>
 Moderators shall enforce the rules of the board and conduct such minor thread housekeeping as may from time to time be necessary, including moving threads, renaming them, closing them, merging or separating posts, and so on.
-<h4>5. Appointment</h4>
-Moderators and Supervisor Moderators shall be appointed by the Joint Owners on a consensus basis for an indefinite term, subject to the probationary period set out in IV CC 6.
-<h4>6. Probationary Period</h4>
+<h3>Chapter 2: Staff Code of Conduct</h3>
+<h4>4. Staff Confidences</h4>
+We will do our best to hold your information in confidence, and we will not release that information unless we believe it is necessary to carry out our duties or is necessary for legal, safety, or technical reasons;
+<h4>5. Misuse of Moderator Powers</h4>
+We will not misuse moderator powers by:
+<p class="ind1">(1). Acting as moderators in a debate in which we are taking part unless it is urgently required;
+<p class="ind1">(2). Acting on an appeal in which we were involved in the debate or in the issuance of the infraction;
+<p class="ind1">(3). Using them to harrass or suppress legitimate discussion.
+
+<h3>Chapter 3: Staff Tenure</h3>
+<h4>6. Appointment</h4>
+Moderators and Supervisor Moderators shall be appointed by the Joint Owners on a consensus basis for an indefinite term, subject to the probationary period set out in IV CC 7.
+<h4>7. Probationary Period</h4>
 Moderators and Supervisor Moderators shall for the first eight weeks after their appointment be probationary and subject to the supervision of the Directors; and shall be confirmed to their positions by the consensus discretion of the Directors.
-<h4>7. Staff Removal</h4>
+<h4>8. Staff Removal</h4>
 Moderators and Supervisor Moderators may be removed either for cause or for non-performance.
 <p class="ind1">(1). Any Moderator or Supervisor Moderator who has been idle in the performance of their duties without approval for more than 60 days may be removed by a simple majority vote of the Directors.</p>
 <p class="ind1">(2). Any Moderator or Supervisor Moderator may be removed for cause by the presentation of an appropriate case to the Tribunal.
-<h4>8. Staff Resignation</h4>
+<h4>9. Staff Resignation</h4>
 Moderators and Supervisor Moderators may, at any time, resign their duties by a statement to that effect.
 
 
