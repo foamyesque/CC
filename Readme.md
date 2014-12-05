@@ -184,7 +184,7 @@ You agree that you will not make comments which:
 <p class="ind1">(2). Expresses advocacy, promotion, or other comment that suggests that any person, should, or deserves to be, the victim of any violent, degrading, or sexual act.
 
 <h4>15. Signatures and Avatars</h4>
-You agree that your avatar and your signature will be free of any image or text that is, or might be, intended to titilate or contains in prominent part anything that is sexual or gorey in nature or that might otherwise be construed as offensive.
+You agree that your avatar and your signature will be free of any image or text that is, or might be, intended to titilate or contains in prominent part anything that is sexual or gory in nature or that might otherwise be construed as offensive.
 
 <h4>16. Potential Controversial Material to be Spoilered</h4>
 You agree that you will place below a labelled spoiler any text or media which:
