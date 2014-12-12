@@ -104,7 +104,7 @@ You agree you will not do anything considered to be disruptive or spamming, incl
     <li> Using the resources of the site to harass any person or organization, such as by counselling or advocating disruptive action on another site or launching campaigns against them;
     <li> Using the site for financial gain or advertising without staff permission;
     <li> Making frivolous reports
-  <ol>
+  </ol>
   
   
 <h3>7. Linking</h3>
