@@ -17,7 +17,7 @@
 
 
 
-<h2>Rules</h2>
+<h2>Prohibited Behaviour:</h2>
 
   In brief: Don't break the law, don't post porn, don't post gore, don't spam, and don't harass people.
   
@@ -85,6 +85,7 @@
 
 You agree you will not do anything considered to be disruptive or spamming, including, but not limited to:
   <ol>
+    <li> Creating multiple accounts
     <li> Making a significant number of threads in quick succession;
     <li> Making multiple unnecessary sequential posts;
     <li> Overuse of single-image posts or memes;
