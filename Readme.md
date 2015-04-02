@@ -52,7 +52,7 @@
   <ol start=6>
     <li> Contains prominent sexual imagery;
     <li> Contains visible violence, injury, or trauma, even if fictional;
-    <li> Might shock the conscience
+    <li> Might shock the conscience [expand]
   </ol>
   
   This does not prohibit the discussion of news or historical events, educational or academic material, or literary or artistic works so long as such discussion is tasteful and contains as little description as is reasonably necessary. It also does not prohibit the posting of content if that content has been explicitly approved, in writing, by the Staff as having enough merit to warrant an exception to this rule.
@@ -127,6 +127,8 @@ You agree you will not do anything considered to be disruptive or spamming, incl
   
   We request appeals be made promptly, within four days of the infraction. Exceptions may be made at the discretion of the Staff.
   
+  Appelants are entitled to the use of an advocate to assist them in their case.
+  
   In an appeal, we ask that you provide the following information:
   <ol>
     <li> A link to the material you received an infraction for;
@@ -135,16 +137,15 @@ You agree you will not do anything considered to be disruptive or spamming, incl
   </ol>
   
   
-  An appeal will usually proceed through up to three stages:
+  An appeal may proceed through two stages:
   <ol>
-    <li> It is first considered by a Supervisor Moderator;
-    <li> If the decision made by the Supervisor Moderator is unsatisfactory, you may request that it be reviewed by the Directors;
-    <li> If the decision made by the Directors is unsatisfactory, you may request that it be reviewed by a Tribunal of the Community Council
+    <li> It is first considered by a Magistrate;
+    <li> If the decision made by the Magistrate is unsatisfactory, you, the Deputy Director of Moderation, or the Executive Director, may request that it be reviewed by a Tribunal of the Community Council.
   </ol>
     
-  In some cases, at the discretion of the Directors, an appeal may be either be heard immediately by the Directors or proceed directly to a Tribunal of the Community Council.   
+  In some cases, at the discretion of the Directors, an appeal may proceed directly to a Tribunal of the Community Council.   
     
-  Both the Supervisor Moderators and the Directors have the right to alter the original Staff action in any way they deem fit, including but not limited to:
+  The Magistrates have the right to alter the original Staff action in any way they deem fit, including but not limited to:
   <ol>
       <li> Complete removal;
       <li> Correcting the basis of the Staff action;
@@ -155,27 +156,31 @@ You agree you will not do anything considered to be disruptive or spamming, incl
       
 <h3>2. Administrative Tribunals</h3>
   
-  A Tribunal is the final stage of the appeals process. Unlike review by a Supervisor Moderator or Director, it is conducted in public, with a decision being made by Community Council. 
+  A Tribunal is the final stage of the appeals process. Though conducted privately, at the end of a Tribunal the procedings will be publically archived.
   
   These decisions are binding on the Staff and offer guidance to the Staff in their interpretation and administration of these rules.
   
-  If an appeal to the Tribunal is granted, we ask that you provide the following:
+  If an appeal to the Tribunal is to occur, we ask that you provide the following:
   <ol>
     <li> A short summary (no longer than 1,000 words) of your appeal;
-    <li> An explanation of why you feel the infraction could not be justified under these rules;
+    <li> An explanation of why you feel the infraction was unreasonable under the Compact;
     <li> Any tribunal decisions or posts which support your appeal
   </ol>
     
-  A Tribunal case will be presented by a Director. In addition to your statement, the Director will provide the following for the Tribunal to consider:
+  A Tribunal case will be chaired by a Director, who will be responsible for ensuring its orderly conduct. 
+  
+  In addition to your statement, a staff member, chosen by the chair, will provide the following for the Tribunal to consider:
   <ol>
     <li> The name of the staff member who made the decision;
     <li> A copy of the post or PM at issue;
     <li> A copy of any warning issued and the resulting action taken;
     <li> A copy of any relevant moderator comments on the report (if any);
-    <li> A copy of the rule which was the basis of the moderator action
+    <li> A copy of the rule which was the basis of the moderator action;
+    <li> A copy of the appeal thread in which the decision the Tribunal is about was made
   </ol>
   
-  Any private information necessary to present the case will be disclosed only to the Community Councillors, and to the minimum extent necessary for their duties. 
+  
+  Any private information necessary to present the case will be disclosed only to the Community Councillors, and to the minimum extent necessary for their duties.
   
   An Administrative Tribunal's binding decision may only judge a Staff action either valid in full or invalid in full. The Tribunal cannot selectively overturn portions of an action or otherwise modify it.
 
@@ -185,6 +190,7 @@ You agree you will not do anything considered to be disruptive or spamming, incl
   
   Instead, if you want to talk about some particular staff action or policy without undertaking a formal appeal, you may:
   <ol>
+    <li> Ask a question in the Questions & Content Review forum;
     <li> Start a conversation with a Staff member;
     <li> Start a thread in the News and Management forum
   </ol>
@@ -194,7 +200,7 @@ You agree you will not do anything considered to be disruptive or spamming, incl
 
   You may request the Staff review material for you prior to posting it. To do so:
   <ol>
-    <li> Post the material in the Appeals forum;
+    <li> Post the material in the Questions & Review forum;
     <li> Include an explanation of the context of the material;
     <li> Include a link to the location you intend to post it
   </ol>
@@ -210,12 +216,12 @@ You agree you will not do anything considered to be disruptive or spamming, incl
   
 <h3>1. Directors</h3>
 
-  The Directors are, broadly speaking, the ones in charge of Sufficient Velocity. They oversee the maintenance, operation, and policy of the forum, and judge appeals of both Supervisor Moderator decisions and others at their discretion.
+  The Directors are, broadly speaking, the ones in charge of Sufficient Velocity. They oversee the maintenance, operation, and policy of the forum.
 
 
-<h3>2. Supervisor Moderators</h3>
+<h3>2. Magistrates</h3>
 
-  Supervisor Moderators provide policy guidance and judge appeals from the decisions of the Moderators. They typically do not perform the same tasks as Moderators, but may do so if need arises.
+  Magistrates provide policy guidance and judge appeals from the decisions of the Moderators. They typically do not perform the same tasks as Moderators, but may do so if need arises.
 
 
 <h3>3. Moderators</h3>
@@ -224,15 +230,15 @@ You agree you will not do anything considered to be disruptive or spamming, incl
 
 <h3>4. Staff Appointment and Removal</h3>
 
-  Supervisor Moderators and Moderators are appointed by the Directors on a consensus basis. They must first serve a probationary period of eight weeks under the supervision of the Directors. After a satisfactory completion of the probationary period, they may be confirmed by the Directors to their position for an indefinite term.
+  Magistrates and Moderators are appointed by the Directors on a consensus basis. They must first serve a probationary period of eight weeks under the supervision of the Directors. After a satisfactory completion of the probationary period, they may be confirmed by the Directors to their position for an indefinite term.
   
-  Supervisor Moderators and Moderators may be removed for cause and for non-performance: 
+  Magistrates and Moderators may be removed for cause and for non-performance: 
   <ol>
-    <li> Any Moderator or Supervisor Moderator who has been idle in the performance of their duties without approval for more than 60 days may be removed by a simple majority vote of the Directors;
-    <li> Any Moderator or Supervisor Moderator may be removed for cause by the presentation of an appropriate case to the Tribunal
+    <li> Any Moderator or Magistrate who has been idle in the performance of their duties without approval for more than 60 days may be removed by a simple majority vote of the Directors;
+    <li> Any Moderator or Magistrate may be removed for cause by the presentation of an appropriate case to the Tribunal
   </ol>
   
-  Supervisor Moderators and Moderators may resign at any time by a statement to that effect.
+  Magistrates and Moderators may resign at any time by a statement to that effect.
 
 
 <h3>5. Community Council</h3>
@@ -247,7 +253,7 @@ You agree you will not do anything considered to be disruptive or spamming, incl
     
   Elections are held once a year, for one year terms, every August. The nomination phase will run from August 6 to August 13, and the voting phase from August 16 to August 23. 
   
-  Councillors may not serve more than two consecutive terms. 
+  Councillors may not serve more than two consecutive terms, but any number of terms in total. 
   
   Councillors may be removed for cause and for non-performance: 
   <ol>
